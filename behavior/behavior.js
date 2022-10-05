@@ -1,4 +1,4 @@
-$(".carousel").carousel({
-	interval: false,
-	wrap: true
-});
+// $(".carousel").carousel({
+// 	interval: false,
+// 	wrap: true
+// });
