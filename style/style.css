@@ -2,3 +2,13 @@ body {
 	background-color: blue;
 	color: white;
 }
+
+li {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+p {
+	font-style: italic;
+	font-size: 18px;
+}
